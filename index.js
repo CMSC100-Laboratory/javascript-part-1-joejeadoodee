@@ -69,3 +69,5 @@ console.log(storePassword("John", "Pass123", "Pass12345"));
 // console.log(reversePassword(("hEl0")));
 // console.log(reversePassword("hEl0ssg2"));
 // console.log(reversePassword("Hello1234")); 
+console.log(storePassword("Joe", "qwertY1234", "qwertY1234"));
+console.log(storePassword("Jean", "qwertY1234", "qwertY1234346346346"));
