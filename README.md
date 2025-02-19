@@ -11,7 +11,7 @@ Student Number: 2022-69593
 Section: C-2L
 
 ## Application Description
-Terminal-based application to validate if password is valid, if 2 password matched.
+Terminal-based application to validate if password is valid, if two passwords matched. Returns the reversed password as new password if the two passwords did not match.
 
 ## References Used
 https://stackoverflow.com/questions/26322867/how-to-validate-password-using-following-conditions
